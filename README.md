@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cninz
 - 👀 I’m interested in EVERYTHING
 - 🌱 I’m currently learning Fullstack Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me email: nchua.nc47@gmail.com
 
 <!---

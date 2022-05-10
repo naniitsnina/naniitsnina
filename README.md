@@ -34,7 +34,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=cninz&bg_color=0d1117&hide_border=true&text_color=ffffff" alt="cninz" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cninz&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff" align="right" alt="cninz" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cninz&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff" align="left" alt="cninz" />
 </p>
 
 <p align="center">

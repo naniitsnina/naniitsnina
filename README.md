@@ -39,17 +39,18 @@
 
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=cninz&hide_border=true&background=0d1117&currStreakLabel=fb8c01&fire=fb8c01&stroke=white&dates=white&currStreakNum=DDDDDD&ring=fb8c01&sideNums=FF99C8&sideLabels=FF99C8&text_color=ffffff" alt="cninz">
-<p>
+</p>
 
 <p align="center">
 <img src="https://visitor-badge.glitch.me/badge?page_id=cninz.cninz&left_color=gray&right_color=yellow&left_text=profile%20views"/>
-<p>
+
+</p>
  
 <p>
   <h4 align="left">Hope to hear from you soon!</h4>
   <img src="https://user-images.githubusercontent.com/95299412/167564234-a1e3d65d-2750-4473-9792-ff3bccf6905a.gif">
 
-
+</p>
 
 
 

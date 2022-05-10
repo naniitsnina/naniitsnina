@@ -6,7 +6,7 @@
 
 
 <h2 align="center"> Hi there 👋, my name is Nirel but you can call me Nina - aka <a href="https://nirelchua.netlify.app/" style="color:#E4C1F9">naniitsnina</a> </h2>
-<h4 align="center"> I am a Software Developer who wants to do everything</h4>
+<h4 align="center"> I am a Software Developer that specializes in making web application. I like to combine art and technology in my work. I want to use technology and art to connect everyone around the world and bring joy in many more ways than one. In the future I will be working towards video game development and AI.</h4>
 
 - ✅ Open to new clients
 

@@ -33,9 +33,9 @@
 ## Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cninz&bg_color=0d1117&hide_border=true&text_color=ffffff" alt="cninz" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cninz&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff" align="left" alt="cninz" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=cninz&bg_color=0d1117&hide_border=true&text_color=ffffff" alt="cninz" /> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cninz&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff" align="right" alt="cninz" />
+</p> 
 
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=cninz&hide_border=true&background=0d1117&currStreakLabel=fb8c01&fire=fb8c01&stroke=white&dates=white&currStreakNum=DDDDDD&ring=fb8c01&sideNums=FF99C8&sideLabels=FF99C8&text_color=ffffff" alt="cninz">

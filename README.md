@@ -8,6 +8,8 @@
 <h2 align="center"> Hi there 👋, my name is Nirel but you can call me Nina - aka <a href="https://nirelchua.netlify.app/" style="color:#E4C1F9">naniitsnina</a> </h2>
 <h4 align="center"> I am a Software Developer that specializes in making web application. I like to combine art and technology in my work. I want to use technology and art to connect everyone around the world and bring joy in many more ways than one. In the future I will be working towards video game development and AI.</h4>
 
+
+## About Me
 - ✅ Open to new clients
 
 - 👨‍💻 All of my projects are available at [nirelchua.netlify.app](nirelchua.netlify.app)
@@ -33,7 +35,7 @@
 ## Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cninz&bg_color=0d1117&hide_border=true&text_color=ffffff" alt="cninz" /> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=cninz&bg_color=0d1117&hide_border=true&text_color=ffffff" alt="cninz" width="50%"/> &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cninz&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff" align="right" alt="cninz" />
 </p> 
 

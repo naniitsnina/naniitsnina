@@ -112,7 +112,9 @@
     <a href="https://linkedin.com/in/nirel-chua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirel-chua" height="30" width="40" /></a>
     <a href="https://instagram.com/naniitsnina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naniitsnina" height="30" width="40" /></a>
   </p> 
-  &nbsp;
+  
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" align="left" />
+  
   <p align="right">
     <img src="https://user-images.githubusercontent.com/95299412/167564234-a1e3d65d-2750-4473-9792-ff3bccf6905a.gif">
     <br/>

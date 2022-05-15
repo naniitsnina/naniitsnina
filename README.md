@@ -2,20 +2,16 @@
 <!-- ![Nirel Chua (72 × 26 in) (1)](https://user-images.githubusercontent.com/95299412/167547326-dba9f105-4919-47cd-8af4-520755f7f06b.gif) -->
 <!-- ![Nirel Chua (72 × 26 in) (2)](https://user-images.githubusercontent.com/95299412/167547550-57996563-065a-46c6-a206-6e10f4ce4578.gif) -->
 
-<!-- ![Nirel Chua](https://user-images.githubusercontent.com/95299412/168410385-8629e9ce-a1e2-4471-b714-5f29146db695.png) -->
-![Nirel Chua (72 × 26 in)](https://user-images.githubusercontent.com/95299412/168446788-4ecf1642-ce18-4601-a44a-0d35c5dcbee9.gif)
+![Nirel Chua (72 × 26 in) (1)](https://user-images.githubusercontent.com/95299412/168458249-01159a94-a5ea-4466-8492-a43d03969618.gif)
 
 
 
-Uploading Nirel Chua (72 × 26 in).mp4…
+<h1 align="center"> Hi there 👋, my name is Nirel but you can call me Nina - aka <a href="https://nirelchua.netlify.app/" style="color:E4C1F9">naniitsnina</a> </h1>
+<h4 align="center"> I am a Software Developer that specializes in making web application. I like to combine art and technology in my work. I want to use technology and art to connect everyone around the world and bring joy in many more ways than one. In the future I want to work on video game development and AI.</h4>
 
 
+<h2 align="center"> About Me </h2>
 
-<h2 align="center"> Hi there 👋, my name is Nirel but you can call me Nina - aka <a href="https://nirelchua.netlify.app/" style="color:#E4C1F9">naniitsnina</a> </h2>
-<h4 align="center"> I am a Software Developer that specializes in making web application. I like to combine art and technology in my work. I want to use technology and art to connect everyone around the world and bring joy in many more ways than one. In the future I will be working towards video game development and AI.</h4>
-
-
-## About Me
 - ✅ Open to new clients
 
 - 👨‍💻 All of my projects are available at [nirelchua.netlify.app](nirelchua.netlify.app)
@@ -26,7 +22,7 @@ Uploading Nirel Chua (72 × 26 in).mp4…
 
 - ⚡ Fun fact: **I delete all my emails** 
 
-<h1 align="center"> Projects </h1>
+<h2 align="center"> Projects </h2>
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -101,12 +97,12 @@ Uploading Nirel Chua (72 × 26 in).mp4…
   
 <h2 align="center"> Stats </h2>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cninz&bg_color=0d1117&hide_border=true&text_color=ffffff" alt="cninz" width="50%"/> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cninz&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff" align="right" alt="cninz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cninz&show_icons=true&icon_color=8C52FF&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" alt="cninz" width="50%"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cninz&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" align="right" alt="cninz" />
 </p> 
 
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=cninz&hide_border=true&background=0d1117&currStreakLabel=fb8c01&fire=fb8c01&stroke=white&dates=white&currStreakNum=DDDDDD&ring=fb8c01&sideNums=FF99C8&sideLabels=FF99C8&text_color=ffffff" alt="cninz">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=cninz&hide_border=true&background=0d1117&currStreakLabel=EFE372&fire=EFE372&ring=EFE372&stroke=white&dates=white&currStreakNum=8C52FF&sideNums=8C52FF&sideLabels=8C52FF&text_color=ffffff" alt="cninz">
 </p>
  
 
@@ -118,7 +114,7 @@ Uploading Nirel Chua (72 × 26 in).mp4…
     <a href="https://instagram.com/naniitsnina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naniitsnina" height="30" width="40" /></a>
   </p> 
   
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" align="left" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=none" alt="Jokes Card" align="left"/>
   
   <p align="right">
     <img src="https://user-images.githubusercontent.com/95299412/167564234-a1e3d65d-2750-4473-9792-ff3bccf6905a.gif">

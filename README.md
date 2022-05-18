@@ -97,8 +97,8 @@
   
 <h2 align="center"> Stats </h2>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cninz&show_icons=true&icon_color=8C52FF&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" alt="cninz" width="50%"/> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cninz&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" align="right" alt="cninz" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=cninz&show_icons=true&icon_color=8C52FF&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" alt="cninz" width="50%"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cninz&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" align="right" alt="cninz" /> -->
 </p> 
 
 <p align="center">

@@ -6,8 +6,8 @@
 
 
 
-<h1 align="center"> Hi there 👋, my name is Nirel but you can call me Nina - aka <a href="https://nirelchua.netlify.app/" style="color:E4C1F9">naniitsnina</a> </h1>
-<h4 align="center"> I am a Software Developer that specializes in making web application. I like to combine art and technology in my work. I want to use technology and art to connect everyone around the world and bring joy in many more ways than one. In the future I want to work on video game development and AI.</h4>
+<h1 align="center"> Hi there 👋, my name is Nirel but you can call me Nina - aka <a href="https://nirelchua.netlify.app/?style=color:E4C1F9" >naniitsnina</a> </h1>
+<h4 align="center"> I am a Software Developer that specialize in making web applications. I like to combine art and technology in my work. I want to use technology and art to connect everyone around the world and bring joy in many more ways than one. In the future I want to work on video game development and AI.</h4>
 
 
 <h2 align="center"> About Me </h2>
@@ -41,7 +41,7 @@
         </a>
       </p>
       <p>
-        <strong>HTML, CSS, JavaScript </strong> - Uses can contact and book appointments with makeup artists and/or designers. Products such as skincare, makeuptools, palettes and many more are displayed!
+        <strong>HTML, CSS, JavaScript </strong> - Users can contact and book appointments with makeup artists and/or designers. Products such as skincare, makeuptools, palettes and many more are displayed!
       </p>
     </td>
     <td width="50%" valign="top">
@@ -97,8 +97,8 @@
   
 <h2 align="center"> Stats </h2>
 <p align="left">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=cninz&show_icons=true&icon_color=8C52FF&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" alt="cninz" width="50%"/> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cninz&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" align="right" alt="cninz" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=cninz&show_icons=true&icon_color=8C52FF&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" alt="cninz" width="50%"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cninz&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" align="right" alt="cninz" />
 </p> 
 
 <p align="center">

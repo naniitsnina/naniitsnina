@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center"> Hi there 👋, my name is Nirel but you can call me Nina - aka <a href="https://nirelchua.netlify.app/?style=color:E4C1F9" >naniitsnina</a> </h1>
+<h1 align="center"> Hi there 👋, my name is Nirel but you can call me Nina - aka <a href="https://nirelchua.netlify.app/"  target="_blank" rel="noopener noreferrer" >naniitsnina</a> </h1>
 <h4 align="center"> I am a Software Developer that specialize in making web applications. I like to combine art and technology in my work. I want to use technology and art to connect everyone around the world and bring joy in many more ways than one. In the future I want to work on video game development and AI.</h4>
 
 
@@ -14,7 +14,7 @@
 
 - ✅ Open to new clients
 
-- 👨‍💻 All of my projects are available at [nirelchua.netlify.app](nirelchua.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="https://nirelchua.netlify.app/" target="_blank" rel="noopener noreferrer">nirelchua.netlify.app</a>
 
 - 📫 You can best reach me through <a href="mailto:nchua.nc47@gmail.com">email</a>
 

@@ -107,11 +107,11 @@
  
 
 
-<h2 align="center"> Connect with me </h2>
+<h2 align="center"> Get in touch with me </h2>
   <p align="center">
-    <a href="https://twitter.com/naniitsnina_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naniitsnina_" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/nirel-chua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirel-chua" height="30" width="40" /></a>
-    <a href="https://instagram.com/naniitsnina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naniitsnina" height="30" width="40" /></a>
+    <a href="https://twitter.com/naniitsnina_" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naniitsnina_" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/nirel-chua" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nirel-chua" height="30" width="40" /></a>
+    <a href="https://instagram.com/naniitsnina" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naniitsnina" height="30" width="40" /></a>
   </p> 
   
   <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%238C52FF&aColor=%23EFE372&bgColor=none" alt="Jokes Card" align="left"/>

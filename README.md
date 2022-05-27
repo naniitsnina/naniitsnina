@@ -29,7 +29,7 @@
       <h3 align="center">Sizzle Restaurant</h3>
       <br />
       <a target="_blank" href="https://sizzlerestaurant.netlify.app/">
-          <img src="https://user-images.githubusercontent.com/95299412/168402149-cee64266-2ac0-4499-a6a4-2d1a238c7477.gif" width="100%" alt="Sizzle"/>
+          <img src="https://user-images.githubusercontent.com/95299412/170767023-96accac2-0ba3-49de-8ad4-208de7c7d668.gif" width="100%" alt="Sizzle"/>
       </a>
       <br />
       <p align="center">

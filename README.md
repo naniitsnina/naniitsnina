@@ -10,7 +10,7 @@
 <h4 align="center"> I like to combine art and technology in my work. I want to be able to connect everyone around the world and bring joy in many more ways than one. In the future I want to delve in the world of video game development and AI</h4>
 
 
-<h2 align="center"> About Me </h2> asdf
+<h2 align="center"> About Me </h2> 
 
 - ✅ Open to new clients
 

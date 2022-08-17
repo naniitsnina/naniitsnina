@@ -97,12 +97,12 @@
   
 <h2 align="center"> Stats </h2>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cninz&show_icons=true&icon_color=8C52FF&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" alt="cninz" width="50%"/> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cninz&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" align="right" alt="cninz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naniitsnina&show_icons=true&icon_color=8C52FF&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" alt="naniitsnina" width="50%"/> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naniitsnina&show_icons=true&locale=en&layout=compact&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=EFE372" align="right" alt="naniitsnina" />
 </p> 
 
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=cninz&hide_border=true&background=0d1117&currStreakLabel=EFE372&fire=EFE372&ring=EFE372&stroke=white&dates=white&currStreakNum=8C52FF&sideNums=8C52FF&sideLabels=8C52FF&text_color=ffffff" alt="cninz">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=naniitsnina&hide_border=true&background=0d1117&currStreakLabel=EFE372&fire=EFE372&ring=EFE372&stroke=white&dates=white&currStreakNum=8C52FF&sideNums=8C52FF&sideLabels=8C52FF&text_color=ffffff" alt="naniitsnina">
 </p>
  
 

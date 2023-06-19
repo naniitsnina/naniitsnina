@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact: **I delete all my emails** 
 
-<h2 align="center"> Projects </h2>
+<h2 align="center"></h2>
 <table>
   <tr>
     <td width="50%" valign="top">

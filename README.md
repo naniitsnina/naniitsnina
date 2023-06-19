@@ -33,7 +33,7 @@
       </a>
       <br />
       <p align="center">
-        <a href="#Sizzle repo" target="_blank">
+        <a href="#Sizzle repo" target="https://github.com/naniitsnina/Sizzle-Restaurant">
           <img src="https://img.shields.io/badge/github-808080?&style=for-the-badge&logo=github&logoColor=ffffff" height=25>
         </a>  
         <a href="https://sizzlerestaurant.netlify.app/" target="_blank">
@@ -52,7 +52,7 @@
       </a>
       <br />
       <p align="center">
-        <a href="#Glam repo" target="_blank">
+        <a href="#Glam repo" target="https://github.com/naniitsnina/Glam-Makeup-Salon">
           <img src="https://img.shields.io/badge/github-808080?&style=for-the-badge&logo=github&logoColor=ffffff" height=25>
         </a>
         <a href="https://glammakeupsalon.netlify.app/" target="_blank">
